@@ -56,7 +56,7 @@ httpretty==0.9.6
 jieba==0.39
 
 # Parsing email templates
-Jinja2==2.10
+Jinja2==2.11.3
 
 # XML manipulations, HTML parsing
 lxml==4.3.0
