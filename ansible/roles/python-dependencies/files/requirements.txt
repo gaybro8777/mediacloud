@@ -101,7 +101,7 @@ python-dateutil==2.7.5
 pytz==2018.9
 
 # Configuration file
-PyYAML==4.2b2
+PyYAML==5.4
 
 # Python 3 compatible version of Google's re2 library (requires libre2-dev system package)
 # (untagged and unreleased 0.2.23 version which builds on Python 3.7)
