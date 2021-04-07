@@ -1,5 +1,5 @@
 # Deployments
-ansible==2.7.5
+ansible==2.10.0
 
 # Saner date / time management
 arrow==0.13.0
